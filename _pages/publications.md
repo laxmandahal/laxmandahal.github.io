@@ -1,11 +1,8 @@
 ---
 layout: archive
-title: "Publications"
+title: "Articles"
 permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /papers.html
 ---
 
 
