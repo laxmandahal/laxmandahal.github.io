@@ -2,7 +2,7 @@
 title: "Quantifying the Effect of Probability Model Misspecification in Seismic Collapse Risk Assessment"
 collection: publications
 permalink: /publications/qmle_structural_safety
-excerpt: 'This paper looks in quantification and propagation of uncertainty induced due to misspecification of probability distribution in seismic risk assessment.'
+excerpt: 'This paper focuses on quantification and propagation of uncertainty induced due to misspecification of probability distribution in seismic risk assessment.'
 date: 2022-01-21
 venue: 'Structural Safety'
 paperurl: 'http://laxmandahal.github.io/files/probability_model_misspecification.pdf'
