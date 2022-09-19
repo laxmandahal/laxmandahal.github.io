@@ -1,7 +1,7 @@
 ---
 title: "From the Curbside to Home Plate: Opportunities and Challenges with Progressive Duration Stadium Event Pricing"
 collection: publications
-permalink: /publication/performance_based_pricing_TBR
+permalink: /publications/performance_based_pricing_TBR
 excerpt: 'This conference paper summarizes the result from an extensive program evaluation of Performance-Based Street Parking Pricing Scheme implemented during game days in National Ballpark in D.C.'
 date: 2019-01-10
 venue: 'Transportation Research Board'

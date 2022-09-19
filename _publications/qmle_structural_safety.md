@@ -1,7 +1,7 @@
 ---
 title: "Quantifying the Effect of Probability Model Misspecification in Seismic Collapse Risk Assessment"
 collection: publications
-permalink: /publication/qmle_structural_safety
+permalink: /publications/qmle_structural_safety
 excerpt: 'This paper looks in quantification and propagation of uncertainty induced due to misspecification of probability distribution in seismic risk assessment.'
 date: 2022-01-21
 venue: 'Structural Safety'

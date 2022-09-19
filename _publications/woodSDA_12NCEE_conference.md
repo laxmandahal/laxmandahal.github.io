@@ -1,7 +1,7 @@
 ---
 title: "An End-to-End Computational Platform to Automate Seismic Design, Nonlinear Analysis, and Loss Assessment of Woodframe Buildings"
 collection: publications
-permalink: /publication/woodSDA_12NCEE_conference
+permalink: /publications/woodSDA_12NCEE_conference
 excerpt: 'This is the conference paper published and presented as a part of the 12th National Conference in Earthquake Engineering (NCEE) hosted by Earthquake Engineering Research Institute (EERI) in Salt Lake city, Utah from 27 June - July 1 2022. This is the first publicly published documentation of the end-to-end workflow to automate the several steps involved in probabilistic performance-based earthquake engineering'
 date: 2022-06-27
 venue: '12th NCEE hosted by EERI'
