@@ -16,4 +16,4 @@ Due to their popularity, especially in residential construction, the seismic per
 
 [Download paper here](http://laxmandahal.github.io/files/woodSDA_12NCEE_Conference_Paper.pdf)
 
-Recommended citation: Dahal L, Burton H, Yi Z. An end-to-end computational platform to automate seismic design, nonlinear analysis, and loss assessment of woodframe buildings. Proceedings of the 12th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Salt Lake City, UT. 2022.
+Recommended citation: <em> Dahal L, Burton H, Yi Z. An end-to-end computational platform to automate seismic design, nonlinear analysis, and loss assessment of woodframe buildings. Proceedings of the 12th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Salt Lake City, UT. 2022. </em>

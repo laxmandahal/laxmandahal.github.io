@@ -18,4 +18,4 @@ operations, this analysis approach aims to determine the viability and effective
 
 [Download paper here](https://dcgis.maps.arcgis.com/sharing/rest/content/items/4ae98e198e494496b64d48ef7856a128/data)
 
-Recommended citation: Perez B, Dahal L. From the Curbside to Home Plate: Opportunities and Challenges with Progressive Duration Stadium Event Pricing. Proceedings of the 96th Annual Meeting, Transportation Research Board, Washington, D.C. 2019.
+Recommended citation: <em> Perez B, Dahal L. From the Curbside to Home Plate: Opportunities and Challenges with Progressive Duration Stadium Event Pricing. Proceedings of the 96th Annual Meeting, Transportation Research Board, Washington, D.C. 2019. </em>

@@ -17,4 +17,4 @@ One of the main steps in probabilistic seismic collapse risk assessment is estim
 
 [Github Repo](https://github.com/laxmandahal/Parameter-Estimation-Uncertainty)
 
-Recommended citation: Dahal, L., Burton, H., & Onyambu, S. (2022). Quantifying the effect of probability model misspecification in seismic collapse risk assessment. Structural Safety, 96, 102185.
+Recommended citation: <em> Dahal, L., Burton, H., & Onyambu, S. (2022). Quantifying the effect of probability model misspecification in seismic collapse risk assessment. Structural Safety, 96, 102185. </em>
