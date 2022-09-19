@@ -83,9 +83,9 @@ author:
   name             : "Laxman Dahal"
   avatar           : "profile.png"
   bio              : "Data Scientist leveraging advanced statistical and Machine Learning methods in seismic risk quantification"
-  location         : "Los Angeles, US"
+  location         : "Los Angeles, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-Jod_p4AAAAJ&hl=en"
   email            : "laxman.dahal@ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: papers
     values:
       layout: single
       author_profile: true
