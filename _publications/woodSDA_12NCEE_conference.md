@@ -5,8 +5,7 @@ permalink: /publications/woodSDA_12NCEE_conference
 excerpt: 'This is the conference paper published and presented as a part of the 12th National Conference in Earthquake Engineering (NCEE) hosted by Earthquake Engineering Research Institute (EERI) in Salt Lake city, Utah from 27 June - July 1 2022. This is the first publicly published documentation of the end-to-end workflow to automate the several steps involved in probabilistic performance-based earthquake engineering'
 date: 2022-06-27
 venue: '12th NCEE hosted by EERI'
-
-
+paperurl: 'http://laxmandahal.github.io/files/woodSDA_12NCEE_Conference_Paper.pdf'
 citation: 'Dahal L, Burton H, Yi Z. An end-to-end computational platform to automate seismic design, nonlinear analysis, and loss assessment of woodframe buildings. Proceedings of the 12th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Salt Lake City, UT. 2022.'
 ---
 
